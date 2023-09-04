@@ -4,6 +4,6 @@ A native portability library for access to gamepads and joystick input devices
 
 |---------+-------------------------------------------------|
 | source  | git:https://github.com/Shirakumo/cl-gamepad.git |
-| commit  | bab8189                                         |
+| commit  | b276389                                         |
 | systems | cl-gamepad                                      |
 |---------+-------------------------------------------------|
